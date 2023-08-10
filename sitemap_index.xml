@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=httpflooringoutfitters.com/sitemap.xml">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "httpflooringoutfitters.com/sitemap.xml";
+		</script>
+
+		<p>You are being redirected to <a href="httpflooringoutfitters.com/sitemap.xml">httpflooringoutfitters.com/sitemap.xml</a></p>
+	</body>
+</html>
